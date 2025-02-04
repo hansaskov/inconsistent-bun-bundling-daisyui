@@ -9,7 +9,7 @@ bun ./src/*.html
 
 Navigating to [http://localhost:3000/cdn](http://localhost:3000/cdn) will the this
 
-![An image of two tabs called Tab 1 and Tab 2. You can click on them to switch between them](./public/bundled.png "Bundled image")
+![An image of two tabs called Tab 1 and Tab 2. You can click on them to switch between them](./public/cdn.png "Cdn image")
 
 ## Bundeled incorrect page
 
