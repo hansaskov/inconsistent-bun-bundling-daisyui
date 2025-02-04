@@ -16,3 +16,6 @@ Navigating to [http://localhost:3000/cdn](http://localhost:3000/cdn) will the fo
 Navigating to [http://localhost:3000/bundled](http://localhost:3000/bundled) will show the following
 
 ![An image of two tabs where the text inside is missing](./public/bundled.png "Bundled image")
+
+## Exmplanation
+Bundling Tailwindcss and daisyui will in the case of the tabs component not render the text inside. Comparing this to the using the cdn shows the difference.   
