@@ -1,0 +1,13 @@
+{
+  "name": "bun-bundling-daisyui",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bun-plugin-tailwind": "^0.0.14",
+    "daisyui": "^5.0.0-beta.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
